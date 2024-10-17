@@ -10,7 +10,6 @@ I’m a software engineering student with a strong foundation in both front-end 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manolo0o&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manolo0o&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manolo0o&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manolo0o&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
