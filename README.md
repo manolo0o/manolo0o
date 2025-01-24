@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software engineering student with a strong foundation in both front-end and back-end development. My journey in tech has been driven by a passion for creating seamless, efficient, and engaging applications. I’m always on the lookout for new challenges and opportunities to expand my skill set.
+I’m a software engineer with a strong foundation in both front-end and back-end development. My journey in tech has been driven by a passion for creating seamless, efficient, and engaging applications. I’m always on the lookout for new challenges and opportunities to expand my skill set.
 
 
 ## 🌐 Socials:
